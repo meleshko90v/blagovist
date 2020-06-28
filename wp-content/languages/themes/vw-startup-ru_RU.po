@@ -1,0 +1,418 @@
+# Translation of Themes - VW Startup in Russian
+# This file is distributed under the same license as the Themes - VW Startup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-23 06:14:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Startup\n"
+
+#. Theme Name of the theme
+msgid "VW Startup"
+msgstr "VW Startup"
+
+#. Description of the theme
+msgid "VW Startup is a creative and stylish WordPress theme for multipurpose and innovative startups. Create your personal website, blog, business ventures or build online startup business or establish yourself as a successful entrepreneur with the help of this theme. The theme is for IT companies and technical startups, agencies and digital marketing companies which can use it as a business theme. It is very well malleable and adaptive according to the purpose it is being used for. The theme is built on Bootstrap framework for its easy usage. It is jam-packed with loads of sophisticated features which are fun to experiment with for newbies and webmasters equally. The VW Startup is a responsive theme which looks stunning on all devices. Its cross-browser compatibility makes it load smoothly on all web browsers. The theme is translation ready and supports RTL writing to reach maximum audience. It is customizable giving you a good chance to change it according to your needs. Banners and sliders are used to make site more impactful. The VW Startup is designed keeping in mind the SEO factor. The theme loads fast and has easy navigation offering a good user experience. With social media integration, content on your site can be made shareable. Demo: https://www.vwthemes.net/vw-startup-pro/"
+msgstr "VW Startup - это творческая и стильная WordPress тема для многоцелевых и инновационных стартапов. Создайте свой личный сайт, блог, деловое предприятие или создайте онлайн-бизнес для начинающих или сделайте себя успешным предпринимателем с помощью этой темы. Тема для ИТ-компаний и технических стартапов, агентств и компаний цифрового маркетинга, которые могут использовать ее в качестве деловой темы. Она очень хорошо настраиваема и адаптивна в зависимости от цели, для которой она используется. Эта тема построена на базе Bootstrap для ее простого использования. Она наполнена множеством сложных функций, интересными для экспериментов как новичкам так и опытным програмистам. VW Startup - это адаптивная тема, которая выглядит потрясающе на всех устройствах. Ее кросс-браузерная совместимость позволяет легко загружаться во всех браузерах. Тема подготовлена к переводу и поддерживает запись RTL для достижения максимальной аудитории. Она настраивается, что дает вам возможность изменить ее в соответствии с вашими потребностями. Баннеры и слайдеры используются, чтобы сделать сайт более эффективным. Startup VW разработана с учетом фактора SEO. Тема загружается быстро и имеет удобную навигацию, обеспечивающую хороший пользовательский интерфейс. Благодаря интеграции в социальные сети контент на вашем сайте может быть доступен для совместного использования. Демо: https://www.vwthemes.net/vw-startup-pro/"
+
+#. translators: %s: search term
+#: search.php:18 search.php:46 search.php:73 search.php:100 search.php:129
+#: search.php:158 search.php:188
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#: template-parts/single-post-layout.php:61
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: page-template/custom-home-page.php:54
+#: template-parts/single-post-layout.php:60
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:58
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: page-template/custom-home-page.php:58
+#: template-parts/single-post-layout.php:57
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:52
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: inc/customizer.php:961 template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: inc/customizer.php:749 template-parts/content-gallery.php:62
+#: template-parts/content-video.php:74 template-parts/grid-layout.php:30
+#: template-parts/content-image.php:60 template-parts/content-image.php:103
+#: template-parts/content-image.php:145 template-parts/content-audio.php:73
+#: template-parts/content.php:60 template-parts/content.php:103
+#: template-parts/content.php:145
+msgid "Read More"
+msgstr "Подробнее"
+
+#: template-parts/content-gallery.php:41 template-parts/content-video.php:53
+#: template-parts/content-image.php:39 template-parts/content-image.php:82
+#: template-parts/content-image.php:124
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:52
+#: template-parts/content.php:39 template-parts/content.php:82
+#: template-parts/content.php:124
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/content-gallery.php:41 template-parts/content-video.php:53
+#: template-parts/content-image.php:39 template-parts/content-image.php:82
+#: template-parts/content-image.php:124
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:52
+#: template-parts/content.php:39 template-parts/content.php:82
+#: template-parts/content.php:124
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/content-gallery.php:41 template-parts/content-video.php:53
+#: template-parts/content-image.php:39 template-parts/content-image.php:82
+#: template-parts/content-image.php:124
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:52
+#: template-parts/content.php:39 template-parts/content.php:82
+#: template-parts/content.php:124
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Найти"
+
+#: no-results.php:26
+msgid "Back to Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:19
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/customizer.php:1260
+msgid "Upgrade Pro"
+msgstr "Обновиться до Pro"
+
+#: inc/customizer.php:982
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:967
+msgid "This section will appear in the footer"
+msgstr "Этот раздел появится в футере"
+
+#: inc/customizer.php:966
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer.php:554
+msgid "Select Category to display Latest Post"
+msgstr "Выберите категорию для показа последних записей"
+
+#: inc/customizer.php:518
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/customizer.php:502 inc/getstart/getstart.php:107
+msgid "Services Section"
+msgstr "Секция услуг"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#: page-template/custom-home-page.php:40
+msgid "READ MORE"
+msgstr "ПОДРОБНЕЕ"
+
+#: inc/customizer.php:555
+msgid "Image size (293 x 225)"
+msgstr "Размер изображения (293 x 225)"
+
+#: inc/customizer.php:529
+msgid "Section Short Text"
+msgstr "Короткий текст раздела"
+
+#: inc/customizer.php:503
+msgid "Add Services sections below."
+msgstr "Добавьте разделы «Услуги» ниже."
+
+#: inc/customizer.php:1259
+msgid "Startup Pro Theme"
+msgstr "Тема Startup Pro"
+
+#: inc/customizer.php:418
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайдов"
+
+#: inc/customizer.php:388 inc/getstart/getstart.php:99
+#: inc/getstart/getstart.php:195
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:380 inc/customizer.php:829
+msgid "Add Text"
+msgstr "Добавить текст"
+
+#: inc/customizer.php:341
+msgid "Add Email Address"
+msgstr "Добавьте адресс почты"
+
+#: inc/customizer.php:317
+msgid "Add Call Number"
+msgstr "Добавьте номер телефона"
+
+#: inc/customizer.php:293
+msgid "Add Location Address"
+msgstr "Добавьте адресс"
+
+#: inc/customizer.php:155
+msgid "Add TopBar Content here"
+msgstr "Добавьте тут содержимое верхней панели"
+
+#: inc/customizer.php:154 inc/getstart/getstart.php:104
+msgid "Topbar Section"
+msgstr "Раздел верхней панели"
+
+#: inc/customizer.php:84
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer.php:83
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/customizer.php:82
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:81 inc/customizer.php:89 inc/customizer.php:100
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:79 inc/customizer.php:98
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer.php:70 inc/customizer.php:80 inc/customizer.php:99
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: inc/customizer.php:48
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/themes-widgets/social-profile.php:95
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/themes-widgets/social-profile.php:91
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/themes-widgets/social-profile.php:87
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/themes-widgets/social-profile.php:83
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/themes-widgets/social-profile.php:79
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/themes-widgets/social-profile.php:75
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/themes-widgets/social-profile.php:71
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/themes-widgets/social-profile.php:67
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/themes-widgets/social-profile.php:10
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела социальных сетей"
+
+#: functions.php:151
+msgid "Appears on top bar"
+msgstr "Появится на верхней панели"
+
+#: functions.php:150
+msgid "Social Icon"
+msgstr "Иконка соц. сети"
+
+#: functions.php:141
+msgid "Appears on footer 4"
+msgstr "Появится в футере 4"
+
+#: functions.php:140
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:131
+msgid "Appears on footer 3"
+msgstr "Появится в футере 3"
+
+#: functions.php:130
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:121
+msgid "Appears on footer 2"
+msgstr "Появится в футере 4"
+
+#: functions.php:120
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:111
+msgid "Appears on footer 1"
+msgstr "Появится в футере 1"
+
+#: functions.php:110
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:100
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:91 functions.php:101
+msgid "Appears on page sidebar"
+msgstr "Появится на боковой панели страницы"
+
+#: functions.php:90
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:81
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:80
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: archive.php:40 archive.php:71 archive.php:101 archive.php:131
+#: archive.php:163 archive.php:197 archive.php:228 single.php:34 single.php:61
+#: single.php:87 single.php:113 single.php:141 single.php:171 single.php:198
+#: index.php:39 index.php:66 index.php:92 index.php:118 index.php:146
+#: index.php:176 index.php:203 image.php:34 image.php:61 image.php:87
+#: image.php:113 image.php:141 image.php:171 image.php:198 search.php:35
+#: search.php:63 search.php:90 search.php:117 search.php:146 search.php:177
+#: search.php:205
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:39 archive.php:70 archive.php:100 archive.php:130
+#: archive.php:162 archive.php:196 archive.php:227 single.php:33 single.php:60
+#: single.php:86 single.php:112 single.php:140 single.php:170 single.php:197
+#: index.php:38 index.php:65 index.php:91 index.php:117 index.php:145
+#: index.php:175 index.php:202 image.php:33 image.php:60 image.php:86
+#: image.php:112 image.php:140 image.php:170 image.php:197 search.php:34
+#: search.php:62 search.php:89 search.php:116 search.php:145 search.php:176
+#: search.php:204
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:38 archive.php:69 archive.php:99 archive.php:129 archive.php:161
+#: archive.php:195 archive.php:226 single.php:32 single.php:59 single.php:85
+#: single.php:111 single.php:139 single.php:169 single.php:196 index.php:37
+#: index.php:64 index.php:90 index.php:116 index.php:144 index.php:174
+#: index.php:201 image.php:32 image.php:59 image.php:85 image.php:111
+#: image.php:139 image.php:169 image.php:196 search.php:33 search.php:61
+#: search.php:88 search.php:115 search.php:144 search.php:175 search.php:203
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:17 inc/customizer.php:844
+msgid "Return to the home page"
+msgstr "Вернуться на главную страницу"
+
+#: no-results.php:24
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: inc/customizer.php:419
+msgid "Background image size (1500 x 550)"
+msgstr "Размер изображения фона (1500 x 550)"
+
+#: inc/customizer.php:363
+msgid "Add Button url"
+msgstr "Добавьте URL кнопки"
+
+#: inc/customizer.php:352 inc/customizer.php:747 inc/customizer.php:842
+msgid "Add Button Text"
+msgstr "Добавьте текст кнопки"
+
+#: functions.php:357
+msgid "Startup WordPress Theme"
+msgstr "Тема Startup для WordPress"
+
+#. Author URI of the theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the theme
+#: functions.php:354
+msgid "https://www.vwthemes.com/themes/free-startup-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-startup-wordpress-theme/"
